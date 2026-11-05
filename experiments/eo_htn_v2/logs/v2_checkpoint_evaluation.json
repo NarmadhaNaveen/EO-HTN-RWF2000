@@ -1,0 +1,27 @@
+{
+  "checkpoint_epoch": 9,
+  "checkpoint_path": "D:\\EO_HTN_RWF2000\\experiments\\eo_htn_v2\\checkpoints\\best_eo_htn_v2.pth",
+  "evaluation_split": "validation",
+  "validation_videos": 400,
+  "frames": 8,
+  "image_size": 96,
+  "trainable_parameters": 411426,
+  "metrics": {
+    "accuracy": 0.7125,
+    "precision": 0.6384364820846905,
+    "recall": 0.98,
+    "f1": 0.7731755424063116,
+    "brier": 0.37813296757203707,
+    "ece": 0.060061072409152955,
+    "confusion_matrix": [
+      [
+        89,
+        111
+      ],
+      [
+        4,
+        196
+      ]
+    ]
+  }
+}
