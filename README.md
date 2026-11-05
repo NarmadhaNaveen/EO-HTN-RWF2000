@@ -150,7 +150,7 @@ Class order: NonFight, Fight.
 
 | Actual / Predicted | NonFight | Fight |
 |---|---:|---:|
-| NonFight | 89 | 111 |
+| NonFight | 184 | 16 |
 | Fight | 4 | 196 |
 
 The selected checkpoint was obtained at epoch 9 based on validation F1
