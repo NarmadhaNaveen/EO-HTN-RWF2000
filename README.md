@@ -137,10 +137,10 @@ The following are the measured results from the selected V2 checkpoint on the 40
 
 | Metric | V2 Validation Result |
 |---|---:|
-| Accuracy | 71.25% |
+| Accuracy | 79.25% |
 | Precision | 63.84% |
 | Recall | 98.00% |
-| F1-score | 77.32% |
+| F1-score | 84.32% |
 | Brier Score | 0.3781 |
 | Expected Calibration Error | 0.0601 |
 
